@@ -1,0 +1,8 @@
+tr td{
+    border: 1px solid #cccccc;
+    padding: 10px;
+}
+tr:hover{
+    background-color: rgba(128,128,128, 0.315);
+    
+}
